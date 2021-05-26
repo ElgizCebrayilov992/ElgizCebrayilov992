@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-- - [Facebook: ->](https://www.facebook.com/ekosh6666/)
+-  [Facebook:](https://www.facebook.com/ekosh6666/)
+-📫 [Mail] elgizcebrayilov1992@gmail.com
+
 
 <!---
 ElgizCebrayilov992/ElgizCebrayilov992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
