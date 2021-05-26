@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
--  [Facebook:](https://www.facebook.com/ekosh6666/)
--📫 [Mail] elgizcebrayilov1992@gmail.com
+-  [Facebook:](https://www.facebook.com/ekosh6666/) </br>
+- 📫 [Mail] elgizcebrayilov1992@gmail.com
 
 
 <!---
