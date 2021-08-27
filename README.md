@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElgizCebrayilov992
+- 👋 Hi, I’m Elgiz Jabrailov
 - 👀 I’m interested in Dart,Flutter and UI/UX design
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me  
