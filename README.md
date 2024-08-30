@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Elgiz Jabrayilov</h1>
-   <h1>Overview</h1>
-    <p>Welcome to my GitHub repository! I'm passionate about data science, Flutter development, MS SQL, and Entity Framework Core (EF Core). This project reflects my work and expertise in these areas.</p>
+<h1>Overview</h1>
+<p>Welcome to my GitHub repository! I'm passionate about data science, Flutter development, MS SQL, and Entity Framework Core (EF Core). This project reflects my work and expertise in these areas.</p>
 
-    <h2>Features</h2>
-    <ul>
+<h2 align="center">Features</h2>
+<ul>
         <li><strong>Data Science</strong>: Implementing machine learning models, data analysis, and visualization.</li>
         <li><strong>Flutter Development</strong>: Building cross-platform mobile applications with a focus on performance and user experience.</li>
         <li><strong>MS SQL</strong>: Crafting complex queries, optimizing databases, and managing large datasets.</li>
         <li><strong>EF Core</strong>: Efficiently managing database interactions using Entity Framework Core.</li>
-    </ul>
+</ul>
 
     <h2>Technologies Used</h2>
     <ul>
